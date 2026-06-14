@@ -15,6 +15,7 @@ prerequisities & installation
 
 make sure you have python installation on your machine
 1. **Clone the repository**
+2. 
    '''bash
    
    git clone [https://https://github.com/gadekavyanjali/password-strength-checker.git](https://github.com/gadekavyanjali/password-strength-checker.git)
